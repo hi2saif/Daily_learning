@@ -5,3 +5,5 @@ Day 1 23rd December
 Continue Course Intro to randomiztaion
 
 Day 2 24th December
+Day 3 25th December
+Update my linkedin account
