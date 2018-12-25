@@ -7,3 +7,7 @@ Continue Course Intro to randomiztaion
 Day 2 24th December
 Day 3 25th December
 Update my linkedin account
+Continue Course Scheduling Algorithms
+Learning Python
+
+
