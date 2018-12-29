@@ -77,6 +77,9 @@ find the shrtest distance between the points and draw the line in the middle
 Ensemble Classifier : Random Forest
 for random forest we need weak classifier that is tree clasifier
 
+
+Day 29th December: Continue the course
+
 Model Selection: 
 	Training error = number of misclassified training points / number of training points
 
@@ -95,3 +98,37 @@ Example Tree:   Model : All Trees with k splits
 	the Process of choosing a hyperparameter is called a model selection 
 
 Solution to model selection problem is cross validation
+Model Selection chooses a mdel complexity( a hyperparameter)
+Training a classifiesr choses parameter values
+
+How do we select an adeuate model based on sample data?
+Ans: First we would select a model if we knew the underlying distribution
+then apply same principle then Approximate the sample data (this is know as cross validatin)
+
+Data splitting estimates the prediction error from data
+Model selection : optimize performance
+CLassifier assessment : Interpret performance
+
+Cross validation Steps:
+Split data into three sets: Training set test set validation set
+Train classifier with different hyperparameters on training set
+Select the one with smallest prediction error on test set
+Estimate performance on validation set
+
+Implementation:How to split the data?
+If samples assumed i.i.d split at random
+
+Larger training set  --> More accurate classifier
+Small Training set  -> Reflects variation between sample sets
+
+K-fold cross validation
+
+New Topic:
+
+Probablistic Models for massive data:Efficient framework for discovering useful patterns in massive data
+Probablistic Models pipline: Knowledge ->Make Assumptions -->Disccover Paaterns -> Predict and Explore
+LDA is  a Probablity model of text
+
+Stochastic variational inference methd: Massive data set -->  Subsample data  --> infer local structure  --> update global structure
+
+-----------------------Course ended-----------------
