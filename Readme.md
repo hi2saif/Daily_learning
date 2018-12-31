@@ -78,7 +78,7 @@ Ensemble Classifier : Random Forest
 for random forest we need weak classifier that is tree clasifier
 
 
-Day 29th December: Continue the course
+Day 7 29th December: Continue the course
 
 Model Selection: 
 	Training error = number of misclassified training points / number of training points
@@ -132,3 +132,8 @@ LDA is  a Probablity model of text
 Stochastic variational inference methd: Massive data set -->  Subsample data  --> infer local structure  --> update global structure
 
 -----------------------Course ended-----------------
+
+Day 8 30th December : Siraj Raval Learn Python fo Data Science
+Day 9 31st December : FA18: Computing for Data Analysis course on edX
+
+
