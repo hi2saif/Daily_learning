@@ -134,6 +134,9 @@ Stochastic variational inference methd: Massive data set -->  Subsample data  --
 -----------------------Course ended-----------------
 
 Day 8 30th December : Siraj Raval Learn Python fo Data Science
-Day 9 31st December : FA18: Computing for Data Analysis course on edX
+Day 9 31st December : FA18: Computing for Data Analysis course on edX (Since previous course not completed ) Paused
+Day 10 1st January : Introduction to Python for Data Science (Started) - (Completed)
+		Learn Pandas Well :it is one of the good data structure for data science
+
 
 
